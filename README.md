@@ -2,9 +2,8 @@
 
 ### **Secure | Transparent | Blockchain-Powered**  
 
-🚀 **Developed by:** [Rajeev Kumar](https://github.com/elonerajeev)  
+🚀 **Developed by:** Tech Titan
 📌 **GitHub Repository:** [Blockchain-Based-Voting-System](https://github.com/elonerajeev/Blockchain-Based-Voting-System)  
-📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/rajeev-kumar-2209b1243)
 
 ---
 
