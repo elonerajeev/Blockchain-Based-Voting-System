@@ -1,4 +1,4 @@
-//import "../css/style.css"
+import "../css/style.css"
 
 const Web3 = require('web3');
 const contract = require('@truffle/contract');
@@ -21,7 +21,7 @@ window.App = {
 
             $(document).ready(function(){
               $('#addCandidate').click(function() {
-                // console.log("Executed");
+                console.log("Executed");
                   var nameCandidate = $('#name').val();
                   var partyCandidate = $('#party').val();
                  instance.addCandidate(nameCandidate,partyCandidate).then(function(result){ })
@@ -103,3 +103,7 @@ window.addEventListener("load", function() {
   }
   window.App.eventStart()
 })
+
+
+
+
